@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ypengbzj.github.io/sitemap.xml

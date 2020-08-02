@@ -1,28 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet type="text/xsl" href="https://ypengbzj.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>ypengbzj.github.io/posts/my-first-post/</loc>
-    <lastmod>2020-08-02T08:24:14+08:00</lastmod>
+    <loc>https://ypengbzj.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>ypengbzj.github.io/posts/</loc>
-    <lastmod>2020-08-02T08:24:14+08:00</lastmod>
+    <loc>https://ypengbzj.github.io/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>ypengbzj.github.io/</loc>
-    <lastmod>2020-08-02T08:24:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ypengbzj.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>ypengbzj.github.io/tags/</loc>
+    <loc>https://ypengbzj.github.io/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
