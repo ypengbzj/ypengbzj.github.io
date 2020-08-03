@@ -1,36 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ypengbzj&#39;s blog</title>
+    <title>Posts on ypeng&#39;s blog</title>
     <link>https://ypengbzj.github.io/post/</link>
-    <description>Recent content in Posts on ypengbzj&#39;s blog</description>
+    <description>Recent content in Posts on ypeng&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 02 Aug 2020 20:30:01 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2020 09:35:26 +0800</lastBuildDate>
     
 	<atom:link href="https://ypengbzj.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Demo3</title>
-      <link>https://ypengbzj.github.io/post/demo3/</link>
-      <pubDate>Sun, 02 Aug 2020 20:30:01 +0800</pubDate>
+      <title>这是一个测试文章标题</title>
+      <link>https://ypengbzj.github.io/post/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</link>
+      <pubDate>Mon, 03 Aug 2020 09:35:26 +0800</pubDate>
       
-      <guid>https://ypengbzj.github.io/post/demo3/</guid>
+      <guid>https://ypengbzj.github.io/post/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Demo2</title>
-      <link>https://ypengbzj.github.io/post/demo2/</link>
-      <pubDate>Sun, 02 Aug 2020 19:26:14 +0800</pubDate>
-      
-      <guid>https://ypengbzj.github.io/post/demo2/</guid>
-      <description>&lt;h1 id=&#34;标题1&#34;&gt;标题1&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;无序列表1&lt;/li&gt;
-&lt;li&gt;无序列表2&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     
     <item>
